@@ -1,0 +1,4 @@
+src_dir: src
+dist_dir: dist
+itunes_path: '/path/to/iTunes/iTunes Media/Music/'
+replace_to: '/new/path/'
