@@ -53,4 +53,4 @@ Converted playlist. (`dist/Favorite.m3u`)
 
 ## Licence
 
-MIT License
+[MIT License](https://github.com/hiroto-k/itunes-playlist-converter/blob/master/LICENSE)
