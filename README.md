@@ -10,7 +10,7 @@ This script does the following :
 
 ## Uses
 
-Copy `config.example.yml` to `config.yml` and rewrite `config.yml` settings for your environment.
+Copy `config.example.yml` to `config.yml`, and rewrite `config.yml` settings for your environment.
 
 |Key|Description|Example value|
 |:---:|:---:|:---:|
